@@ -163,6 +163,8 @@ ERC 标准是以太坊的技术规范，用于创建代币和其他合约。最�
 
 #### 2.3.ETH2.0 中的 Epoch, Slot, Block 和 Block 状态
 
+[![architecture](https://github.com/the-web3/web3-product/blob/main/assets/11.jpeg)](https://github.com/the-web3/web3-product)
+
 
 - ETH2.0 按照 epocho 出块
 - 每一个 epocho 有 32 slot
@@ -197,7 +199,7 @@ ERC 标准是以太坊的技术规范，用于创建代币和其他合约。最�
 - 作用：最终确定的区块为用户和应用提供了最高级别的交易安全性和网络信任度。
 
 #### 2.4.以太坊钱包确认位
-[图片]
+[![architecture](https://github.com/the-web3/web3-product/blob/main/assets/22.png)](https://github.com/the-web3/web3-product)
 
 ### 3.Cosmos
 Cosmos是一个旨在解决区块链可扩展性和互操作性问题的区块链生态系统。它的目标是通过一个去中心化的网络将不同的区块链连接起来，使它们能够互相通信和交换数据
