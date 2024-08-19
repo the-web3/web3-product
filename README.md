@@ -12,7 +12,11 @@
 #### 1. Web3 产品课程之区块链(Web3)行业简单介绍 - [教程](https://github.com/the-web3/web3-product/blob/main/Introduction/ReadMe.md)
 #### 2. The Web3 社区产品课程之深入理解交易所钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/exchange-wallet/ReadMe.md)
 #### 3. The Web3 社区产品课程之去中心化钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/hd-wallet/ReadMe.md)
-
+#### 4. The Web3 社区产品课程--交易所风控“链上监控”模块项目产品设计-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/monitor/ReadMe.md)
+#### 5. The Web 社区产品课程之深入理解 MPC 托管系统-[教程]()
+#### 6. The Web 社区产品课程之多钱钱包，智能合约钱包和社交恢复钱包-[教程]()
+#### 7. The Web 社区产品课程之Gnosis safe 多钱钱包-[教程]()
+#### 8. The Web 社区产品课程之账户抽象钱包（AA）-[教程]()
 
 ------------------------------------------------------------------------------------------------------------------------------
 
