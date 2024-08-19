@@ -44,7 +44,10 @@
 #### 第一题. 自己设计一个 HD 钱包产品文档，资料如下
 - 原型文档案例：https://github.com/the-web3/web3-product/blob/main/wallet/HDProtype/ReadMe.md
 - 产品原型链接：https://github.com/the-web3/web3-product/blob/main/wallet/HDProtype/hdwallet.rp
+- 作业提交方式：完成之后提交 PR 
 
+
+#### 第二题. xxxx
 
 ## 联系作者
 
