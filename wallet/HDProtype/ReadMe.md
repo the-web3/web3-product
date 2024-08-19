@@ -22,12 +22,12 @@ TheWeb3 Wallet 涉及到以下几个功能
 钱包含有创建钱包，导入钱包（导入助记词和导入私钥）收款，转账，交易记录，钱包资产等功能。
 
 ### 2.1.1 创建钱包的流程
-[![architecture](https://github.com/the-web3/web3-product/blob/main/assets/zuoye11.png)](https://github.com/the-web3/web3-product)
+[![zuoye11](https://github.com/the-web3/web3-product/blob/main/assets/zuoye11.png)](https://github.com/the-web3/web3-product)
 
 - 我有钱包：说明用户已经在其他平台上创建了，点击我有钱包的话直接跳转到导入助记词界面。
 - 我没有钱包：说明用户想创建一个新的钱包，下一步进入选链（多链，或者单链）
 
-[![https://github.com/the-web3/web3-product/blob/main/assets/zuoye22.png)](https://github.com/the-web3/web3-product)
+[![zuoye22](https://github.com/the-web3/web3-product/blob/main/assets/zuoye22.png)](https://github.com/the-web3/web3-product)
 - 多链钱包：选择之后一次性生成多条链的钱包
 - 比特币，以太坊等：选择之后只生成该条链的钱包
 
