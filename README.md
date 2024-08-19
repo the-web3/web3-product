@@ -42,7 +42,7 @@
 ### 作业篇
 ------------------------------------------------------------------------------------------------------------------------------
 #### 第一题. 自己设计一个 HD 钱包产品文档，资料如下
-- 原型文档案例：
+- 原型文档案例：https://github.com/the-web3/web3-product/blob/main/wallet/HDProtype/ReadMe.md
 - 产品原型链接：https://github.com/the-web3/web3-product/blob/main/wallet/HDProtype/hdwallet.rp
 
 
