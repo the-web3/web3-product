@@ -11,6 +11,8 @@
 
 #### 1. Web3 产品课程之区块链(Web3)行业简单介绍 - [教程](https://github.com/the-web3/web3-product/blob/main/Introduction/ReadMe.md)
 #### 2. The Web3 社区产品课程之深入理解交易所钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/exchange-wallet/ReadMe.md)
+#### 3. The Web3 社区产品课程之去中心化钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/hd-wallet/ReadMe.md)
+
 
 ------------------------------------------------------------------------------------------------------------------------------
 
