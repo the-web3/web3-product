@@ -13,10 +13,24 @@
 #### 2. The Web3 社区产品课程之深入理解交易所钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/exchange-wallet/ReadMe.md)
 #### 3. The Web3 社区产品课程之去中心化钱包产品底层逻辑-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/hd-wallet/ReadMe.md)
 #### 4. The Web3 社区产品课程--交易所风控“链上监控”模块项目产品设计-[教程](https://github.com/the-web3/web3-product/blob/main/wallet/monitor/ReadMe.md)
-#### 5. The Web 社区产品课程之深入理解 MPC 托管系统-[教程]()
-#### 6. The Web 社区产品课程之多钱钱包，智能合约钱包和社交恢复钱包-[教程]()
-#### 7. The Web 社区产品课程之Gnosis safe 多钱钱包-[教程]()
-#### 8. The Web 社区产品课程之账户抽象钱包（AA）-[教程]()
+#### 5. The Web3 社区产品课程之深入理解 MPC 托管系统-[教程]()
+#### 6. The Web3 社区产品课程之多钱钱包，智能合约钱包和社交恢复钱包-[教程]()
+#### 7. The Web3 社区产品课程之Gnosis safe 多钱钱包-[教程]()
+#### 8. The Web3 社区产品课程之账户抽象钱包（AA）-[教程]()
+#### 9. The Web3 社区产品课程之深入理解 MPC 托管系统 [教程]()
+#### 10. The Web3 社区产品经理课程之 EigenLayer 主动验证服务(AVS)
+#### 11. The Web3 社区产品课程之 Cosmos 生态产品体系详解
+#### 12. The Web3 社区产品课程之 Defi 产品详解
+#### 13. The Web3 社区产品课程之 DappLink 多重质押协议
+#### 14. The Web3 社区产品课程之重新质押协议底层实现逻辑
+#### 15. The Web3 社区产品课程之深入理解中心化交易业务流程
+#### 16. The Web3 社区产品课程之以太坊 LSD 产品底层实现逻辑
+#### 17. The Web3 社区产品课程之一键发链
+#### 18. The Web3 社区产品课程之去中化钱包 TheWeb3 Wallet 设计文档
+#### 19. The Web3 产品课程之 Bitcoin 特性以及其生态产品体系详解 [教程]()
+#### 20. The Web3 产品课程之 Ethereum 生态体系产品详解 [教程]()
+#### 21. The Web3 产品课程之-从产品角度看 Web3 EventFi 项目 FishCake [教程]()
+#### 22. DappLink 一键发钱包技术解决方案
 
 ------------------------------------------------------------------------------------------------------------------------------
 
